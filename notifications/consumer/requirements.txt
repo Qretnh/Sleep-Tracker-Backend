@@ -1,0 +1,3 @@
+dotenv
+aio_pika
+aiogram

@@ -1,0 +1,14 @@
+aiogram
+fastapi
+pydantic
+sqlalchemy
+psycopg2-binary
+alembic
+flake8
+black
+isort
+openai
+dotenv
+uvicorn
+asyncpg
+jwt

@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.env
+*.venv/
+venv/
+ENV/
+env/
+env.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Byte-compiled / distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.wheel
+
+# Docker
+*.log
+docker-compose.override.yml
+**/Dockerfile*
+
+# Alembic / Migrations
+backend/alembic/versions/*.pyc
+
+# Node / frontend
+frontend
+
+# OS
+.DS_Store
+Thum
+

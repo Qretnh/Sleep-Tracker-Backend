@@ -1,0 +1,6 @@
+dotenv
+aio_pika
+aiogram
+sqlalchemy
+typing
+asyncpg
